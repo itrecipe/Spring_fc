@@ -108,6 +108,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\h\spring_fc\ch2_final"/>
 			<item value="D:\h\spring_fc\파이널프로젝트_java&amp;springzip"/>
 			<item value="D:\h\spring_fc\java_spring"/>
 		</list>
